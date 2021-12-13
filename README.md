@@ -15,9 +15,9 @@
 
 ### 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Custom Hooks in React: useMediaQuery](https://blog.alyssaholland.me/custom-hooks-in-react-usemediaquery)
 - [How to Create a Custom Alfred Workflow using Python](https://blog.alyssaholland.me/create-alfred-workflow-using-python)
 - [The Top 4 Lessons I Learned at My First Developer Job](https://blog.alyssaholland.me/top-4-lessons-learned-at-first-developer-job)
 - [Git Reset vs. Revert](https://blog.alyssaholland.me/git-reset-vs-revert)
 - [How to Program Keyboard Shortcuts in JavaScript and React](https://blog.alyssaholland.me/how-to-program-keyboard-shortcuts-in-javascript-and-react)
-- [How to Copy Text to the Clipboard using JavaScript](https://blog.alyssaholland.me/how-to-copy-text-to-the-clipboard-using-javascript)
 <!-- BLOG-POST-LIST:END -->
