@@ -15,9 +15,9 @@
 
 ### 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Style Range Inputs that look Consistent Across all Browsers](https://blog.alyssaholland.me/style-range-inputs-that-look-consistent-across-all-browsers)
 - [How to Isolate Tests in Jest](https://blog.alyssaholland.me/how-to-isolate-tests-in-jest)
 - [Custom Hooks in React: useMediaQuery](https://blog.alyssaholland.me/custom-hooks-in-react-usemediaquery)
 - [How to Create a Custom Alfred Workflow using Python](https://blog.alyssaholland.me/create-alfred-workflow-using-python)
 - [The Top 4 Lessons I Learned at My First Developer Job](https://blog.alyssaholland.me/top-4-lessons-learned-at-first-developer-job)
-- [Git Reset vs. Revert](https://blog.alyssaholland.me/git-reset-vs-revert)
 <!-- BLOG-POST-LIST:END -->
