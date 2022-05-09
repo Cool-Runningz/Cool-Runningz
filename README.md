@@ -15,9 +15,9 @@
 
 ### 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [7 Free Terminal Tools and Emulators to Boost Development Productivity](https://blog.alyssaholland.me/7-terminal-tools-and-emulators-to-boost-development-productivity)
 - [Accessibility Quick Start Guide](https://blog.alyssaholland.me/accessibility-quick-start-guide)
 - [Customization in Tailwind CSS: Adding Arbitrary Values](https://blog.alyssaholland.me/tailwind-css-arbitrary-values)
 - [5 Free Productivity Apps to Help you Stay Focused](https://blog.alyssaholland.me/5-free-productivity-apps-to-help-you-stay-focused)
 - [🚗 📻 RoadTrip.FM: Quickly &amp; Easily Find Nearby Radio Stations](https://blog.alyssaholland.me/roadtripfm)
-- [Style Range Inputs that look Consistent Across all Browsers](https://blog.alyssaholland.me/style-range-inputs-that-look-consistent-across-all-browsers)
 <!-- BLOG-POST-LIST:END -->
