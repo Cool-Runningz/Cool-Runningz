@@ -15,9 +15,9 @@
 
 ### 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Book that Encouraged me to Start my Blog](https://blog.alyssaholland.me/show-your-work)
 - [How to Test a React App with Jest and React Testing Library](https://blog.alyssaholland.me/how-to-test-a-react-app-with-jest-and-react-testing-library)
 - [7 Free Terminal Tools and Emulators to Boost Development Productivity](https://blog.alyssaholland.me/7-terminal-tools-and-emulators-to-boost-development-productivity)
 - [Accessibility Quick Start Guide](https://blog.alyssaholland.me/accessibility-quick-start-guide)
 - [Customization in Tailwind CSS: Adding Arbitrary Values](https://blog.alyssaholland.me/tailwind-css-arbitrary-values)
-- [5 Free Productivity Apps to Help you Stay Focused](https://blog.alyssaholland.me/5-free-productivity-apps-to-help-you-stay-focused)
 <!-- BLOG-POST-LIST:END -->
