@@ -15,9 +15,9 @@
 
 ### 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Component Library with Radix](https://blog.alyssaholland.me/building-a-component-library-with-radix)
 - [My Developer Toolbox 🧰](https://blog.alyssaholland.me/developer-toolbox)
 - [Custom Hooks in React: useFetch](https://blog.alyssaholland.me/custom-react-hooks-usefetch)
 - [The Book that Encouraged me to Start my Blog](https://blog.alyssaholland.me/show-your-work)
 - [How to Test a React App with Jest and React Testing Library](https://blog.alyssaholland.me/how-to-test-a-react-app-with-jest-and-react-testing-library)
-- [7 Free Terminal Tools and Emulators to Boost Development Productivity](https://blog.alyssaholland.me/7-terminal-tools-and-emulators-to-boost-development-productivity)
 <!-- BLOG-POST-LIST:END -->
