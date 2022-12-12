@@ -15,9 +15,9 @@
 
 ### 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to test a package before publishing using npm/yarn link](https://blog.alyssaholland.me/npm-yarn-link)
 - [Hacktoberfest  2021 &amp; 2022](https://blog.alyssaholland.me/hacktoberfest-2021-2022)
 - [Building a Component Library with Radix](https://blog.alyssaholland.me/building-a-component-library-with-radix)
 - [My Developer Toolbox 🧰](https://blog.alyssaholland.me/developer-toolbox)
 - [Custom Hooks in React: useFetch](https://blog.alyssaholland.me/custom-react-hooks-usefetch)
-- [The Book that Encouraged me to Start my Blog](https://blog.alyssaholland.me/show-your-work)
 <!-- BLOG-POST-LIST:END -->
