@@ -15,9 +15,9 @@
 
 ### 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Create a React Ecommerce Store with Medusa](https://blog.alyssaholland.me/react-ecommerce-store-medusa)
 - [Dev Retro 2022](https://blog.alyssaholland.me/dev-retro-2022)
 - [How to Test npm Packages Locally](https://blog.alyssaholland.me/npm-yarn-link)
 - [Hacktoberfest  2021 &amp; 2022](https://blog.alyssaholland.me/hacktoberfest-2021-2022)
 - [Building a Component Library with Radix](https://blog.alyssaholland.me/building-a-component-library-with-radix)
-- [My Developer Toolbox 🧰](https://blog.alyssaholland.me/developer-toolbox)
 <!-- BLOG-POST-LIST:END -->
