@@ -15,9 +15,9 @@
 
 ### 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Harnessing Creativity in the Digital Age](https://blog.alyssaholland.me/steal-like-an-artist)
 - [Initial Thoughts on ChatGPT and Generative AI](https://blog.alyssaholland.me/chatgpt-ai)
 - [Headless Components](https://blog.alyssaholland.me/headless-components)
 - [Create a React Ecommerce Store with Medusa](https://blog.alyssaholland.me/react-ecommerce-store-medusa)
 - [Dev Retro 2022](https://blog.alyssaholland.me/dev-retro-2022)
-- [How to Test npm Packages Locally](https://blog.alyssaholland.me/npm-yarn-link)
 <!-- BLOG-POST-LIST:END -->
