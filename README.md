@@ -15,9 +15,9 @@
 
 ### 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Harnessing Creativity in the Digital Age](https://alyssahollandblog.hashnode.dev/steal-like-an-artist)
-- [Initial Thoughts on ChatGPT and Generative AI](https://alyssahollandblog.hashnode.dev/chatgpt-ai)
-- [Headless Components](https://alyssahollandblog.hashnode.dev/headless-components)
-- [Create a React Ecommerce Store with Medusa](https://alyssahollandblog.hashnode.dev/react-ecommerce-store-medusa)
-- [Dev Retro 2022](https://alyssahollandblog.hashnode.dev/dev-retro-2022)
+- [Harnessing Creativity in the Digital Age](https://blog.alyssaholland.me/steal-like-an-artist)
+- [Initial Thoughts on ChatGPT and Generative AI](https://blog.alyssaholland.me/chatgpt-ai)
+- [Headless Components](https://blog.alyssaholland.me/headless-components)
+- [Create a React Ecommerce Store with Medusa](https://blog.alyssaholland.me/react-ecommerce-store-medusa)
+- [Dev Retro 2022](https://blog.alyssaholland.me/dev-retro-2022)
 <!-- BLOG-POST-LIST:END -->
