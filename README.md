@@ -15,9 +15,9 @@
 
 ### 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Music Maestro: Use AI to Curate a Playlist and Discover Music on Spotify](https://blog.alyssaholland.me/music-maestro)
 - [Short Scripts for Small Wins](https://blog.alyssaholland.me/short-scripts-for-small-wins)
 - [Harnessing Creativity in the Digital Age](https://blog.alyssaholland.me/steal-like-an-artist)
 - [Initial Thoughts on ChatGPT and Generative AI](https://blog.alyssaholland.me/chatgpt-ai)
 - [Headless Components](https://blog.alyssaholland.me/headless-components)
-- [Create a React Ecommerce Store with Medusa](https://blog.alyssaholland.me/react-ecommerce-store-medusa)
 <!-- BLOG-POST-LIST:END -->
