@@ -1,7 +1,7 @@
 # Hey, I'm Alyssa 🙋🏽‍♀️
 
 - 👩🏽‍💻 UI Developer
-- 🏃🏽‍♀️ Avid Runner
+- 🟧 LEGO Enthusiast
 - 🎷 Former Band Geek
 
 
