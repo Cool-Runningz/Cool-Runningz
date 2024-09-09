@@ -15,7 +15,7 @@
 
 ## 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Automate the Process of Setting up a New Computer](https://blog.alyssaholland.me/dotfiles-management)
+- [How I Automate the Process of Setting up a New Mac](https://blog.alyssaholland.me/dotfiles-management)
 - [Music Maestro: Use AI to Curate a Playlist and Discover Music on Spotify](https://blog.alyssaholland.me/music-maestro)
 - [Short Scripts for Small Wins](https://blog.alyssaholland.me/short-scripts-for-small-wins)
 - [Harnessing Creativity in the Digital Age](https://blog.alyssaholland.me/steal-like-an-artist)
