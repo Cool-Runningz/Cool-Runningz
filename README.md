@@ -26,5 +26,5 @@
 
 ## 👩🏽‍🏫 Accessibility Course
 <a href="https://www.newline.co/courses/the-approachable-guide-to-accessible-components" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/Cool-Runningz/Cool-Runningz/main/images/course-thumbnail.webp" alt="'The Approachable Guide to Accessible Components' course" height="375" />
+  <img src="https://raw.githubusercontent.com/Cool-Runningz/Cool-Runningz/main/images/course-thumbnail.webp" alt="'The Approachable Guide to Accessible Components' course" height="320" />
 </a>
