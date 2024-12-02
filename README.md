@@ -15,11 +15,11 @@
 
 ## 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [7 More Mac Apps to Boost Development Productivity](https://blog.alyssaholland.me/7-more-mac-apps-to-boost-development-productivity)
 - [How to bypass aliases that conflict with bash commands](https://blog.alyssaholland.me/bypass-bash-aliases)
 - [Principles for Building Successful Component Libraries](https://blog.alyssaholland.me/component-library-principles)
 - [How I Automate the Process of Setting up a New Mac](https://blog.alyssaholland.me/dotfiles-management)
 - [Music Maestro: Use AI to Curate a Playlist and Discover Music on Spotify](https://blog.alyssaholland.me/music-maestro)
-- [Short Scripts for Small Wins](https://blog.alyssaholland.me/short-scripts-for-small-wins)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
